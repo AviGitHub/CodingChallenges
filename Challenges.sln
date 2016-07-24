@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Challenges", "Challenges\Challenges.vcxproj", "{48DB777E-74B7-48F4-A206-938AE8E81395}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointsInCircle", "PointsInCircle\PointsInCircle.vcxproj", "{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{48DB777E-74B7-48F4-A206-938AE8E81395}.Release|x64.Build.0 = Release|x64
 		{48DB777E-74B7-48F4-A206-938AE8E81395}.Release|x86.ActiveCfg = Release|Win32
 		{48DB777E-74B7-48F4-A206-938AE8E81395}.Release|x86.Build.0 = Release|Win32
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Debug|x64.ActiveCfg = Debug|x64
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Debug|x64.Build.0 = Debug|x64
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Debug|x86.Build.0 = Debug|Win32
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Release|x64.ActiveCfg = Release|x64
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Release|x64.Build.0 = Release|x64
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Release|x86.ActiveCfg = Release|Win32
+		{64A3DAC7-D41A-444B-A2CD-DADF9EC23A9C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
