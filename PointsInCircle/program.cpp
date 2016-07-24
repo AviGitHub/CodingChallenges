@@ -3,7 +3,28 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include "program.h"
 using namespace std;
+
+
+
+void ProccessLine(std::string inputLine) {
+
+
+	
+
+
+
+
+
+}
+
+
+
+
+
+
+
 
 
 int main(int argc, char* argv[]) {
@@ -16,13 +37,9 @@ int main(int argc, char* argv[]) {
 
 	while (std::getline(infile,line))
 	{
-
-
+		ProccessLine(line);
 	}
 
-
-
-
-
+	return 0;
 }
 
